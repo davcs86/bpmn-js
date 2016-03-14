@@ -65,6 +65,7 @@
   },
   "dependencies": {
     "bpmn-moddle": "^0.10.4",
+    "concat-map": "0.0.1",
     "diagram-js": "^0.13.3",
     "diagram-js-direct-editing": "^0.13.0",
     "i18next": "^2.2.0",
