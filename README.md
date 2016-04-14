@@ -1,4 +1,4 @@
-> The project is still in an early stage. Documentation may be missing and examples may be broken.
+> **IMPORTANT!** This is an un-synced and customized version of bpmn-js library. I strongly recommend to use the [official repository](https://github.com/bpmn-io/bpmn-js)   
 
 # bpmn-js - BPMN 2.0 for the web
 
